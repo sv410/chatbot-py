@@ -22,4 +22,5 @@ SQL (Structured Query Language) is used to interact with the database where the 
 
 Retrieve Information: If the user asks for student details, the chatbot generates a SQL query like SELECT * FROM students WHERE department = 'Computer Science'.
 Insert Information: If the user provides new data, the chatbot might create an INSERT query.
-Update/Delete Information: The chatbot can also handle updating or deleting records based on user input.
+Update/Delete Information: The chatbot can also handle updating or deleting records based on user input.![image](https://github.com/user-attachments/assets/0fe21ab3-e68f-421c-99be-8578e4ea8c69)
+
